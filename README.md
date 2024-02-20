@@ -24,5 +24,6 @@
 
   Link ---> https://lnkd.in/gnBAyfBx
 
-7. Andrej Karpathy YouTube
+7. Andrej Karpathy YouTube:
+   
   Link ---> https://www.youtube.com/@AndrejKarpathy/videos
