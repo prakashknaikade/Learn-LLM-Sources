@@ -2,15 +2,15 @@
 
 1. The large language model course by Maxime Labonne : 
 
-  Link ---> https://lnkd.in/geNcT6Eg
+  Link ---> https://github.com/mlabonne/llm-course
 
 2. The Hands-on LLMs course by Paul Iusztin, Pau Labarta Bajo and Alexandru Razvant : 
 
-  Link ---> https://lnkd.in/g26nY4-z
+  Link ---> https://github.com/iusztinpaul/hands-on-llms
 
 3. The illustrated transformer blog by Jay Alammar: 
 
-  Link ---> https://lnkd.in/gFJRTT7J
+  Link ---> https://jalammar.github.io/illustrated-transformer/
 
 4. LLM visualization by Brendan Bycroft :
 
@@ -22,7 +22,7 @@
 
 6. LLM Bootcamp by The Full Stack:
 
-  Link ---> https://lnkd.in/gnBAyfBx
+  Link ---> https://fullstackdeeplearning.com/llm-bootcamp/
 
 7. Andrej Karpathy YouTube:
    
