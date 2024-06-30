@@ -18,7 +18,7 @@
 
 5. Chip Huyen's blog about Building LLM applications for production
 
-  Link ---> https://lnkd.in/gwTpg3Hm
+  Link ---> https://huyenchip.com/2023/04/11/llm-engineering.html
 
 6. LLM Bootcamp by The Full Stack:
 
