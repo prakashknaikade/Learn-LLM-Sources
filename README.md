@@ -1,29 +1,35 @@
 # Learn-LLM-Sources
 
-1. The large language model course by Maxime Labonne : 
+1. The large language model course by Maxime Labonne:
 
-  Link ---> https://github.com/mlabonne/llm-course
+    Link ---> https://github.com/mlabonne/llm-course
 
-2. The Hands-on LLMs course by Paul Iusztin, Pau Labarta Bajo and Alexandru Razvant : 
+2. The Hands-on LLMs course by Paul Iusztin, Pau Labarta Bajo and Alexandru Razvant:
 
-  Link ---> https://github.com/iusztinpaul/hands-on-llms
+    Link ---> https://github.com/decodingml/llm-twin-course
 
-3. The illustrated transformer blog by Jay Alammar: 
+    Old Link ---> https://github.com/iusztinpaul/hands-on-llms
 
-  Link ---> https://jalammar.github.io/illustrated-transformer/
+3. The Hands-on LLMs course by Paul Iusztin, Pau Labarta Bajo and Alexandru Razvant:
 
-4. LLM visualization by Brendan Bycroft :
+    Link ---> https://github.com/iusztinpaul/hands-on-llms
 
-  Link ---> https://bbycroft.net/llm
+4. The illustrated transformer blog by Jay Alammar:
 
-5. Chip Huyen's blog about Building LLM applications for production
+    Link ---> https://jalammar.github.io/illustrated-transformer/
 
-  Link ---> https://huyenchip.com/2023/04/11/llm-engineering.html
+5. LLM visualization by Brendan Bycroft :
 
-6. LLM Bootcamp by The Full Stack:
+    Link ---> https://bbycroft.net/llm
 
-  Link ---> https://fullstackdeeplearning.com/llm-bootcamp/
+6. Chip Huyen's blog about Building LLM applications for production
 
-7. Andrej Karpathy YouTube:
-   
-  Link ---> https://www.youtube.com/@AndrejKarpathy/videos
+    Link ---> https://huyenchip.com/2023/04/11/llm-engineering.html
+
+7. LLM Bootcamp by The Full Stack:
+
+    Link ---> https://fullstackdeeplearning.com/llm-bootcamp/
+
+8. Andrej Karpathy YouTube:
+
+    Link ---> https://www.youtube.com/@AndrejKarpathy/videos
