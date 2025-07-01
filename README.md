@@ -5,6 +5,7 @@
     Link ---> <https://github.com/karpathy/nn-zero-to-hero>
 
 2. Stanford CS229: Building Large Language Models (LLMs)
+
     Link ---> <https://www.youtube.com/watch?v=9vM4p9NN0Ts>
 
 3. The Illustrated Transformer Blog by Jay Alammar:
