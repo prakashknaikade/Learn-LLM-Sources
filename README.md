@@ -1,35 +1,40 @@
 # Learn-LLM-Sources
 
-1. The large language model course by Maxime Labonne:
+1. Karpathy’s Neural Networks: Zero to Hero
 
-    Link ---> https://github.com/mlabonne/llm-course
+    Link ---> <https://github.com/karpathy/nn-zero-to-hero>
 
-2. The Hands-on LLMs course by Paul Iusztin, Pau Labarta Bajo and Alexandru Razvant:
+2. Stanford CS229: Building Large Language Models (LLMs)
+    Link ---> <https://www.youtube.com/watch?v=9vM4p9NN0Ts>
 
-    Link ---> https://github.com/decodingml/llm-twin-course
+3. The Illustrated Transformer Blog by Jay Alammar:
 
-    Old Link ---> https://github.com/iusztinpaul/hands-on-llms
+    Link ---> <https://jalammar.github.io/illustrated-transformer/>
 
-3. The Hands-on LLMs course by Paul Iusztin, Pau Labarta Bajo and Alexandru Razvant:
+4. LLM Visualization by Brendan Bycroft :
 
-    Link ---> https://github.com/iusztinpaul/hands-on-llms
+    Link ---> <https://bbycroft.net/llm>
 
-4. The illustrated transformer blog by Jay Alammar:
+5. Chip Huyen's blog about Building LLM applications for production
 
-    Link ---> https://jalammar.github.io/illustrated-transformer/
+    Link ---> <https://huyenchip.com/2023/04/11/llm-engineering.html>
 
-5. LLM visualization by Brendan Bycroft :
+6. RAG Techniques by Nir Diamant
+    Link ---> <https://github.com/NirDiamant/RAG_Techniques>
 
-    Link ---> https://bbycroft.net/llm
+7. GenAI Agents by Nir Diamant
+    Link ---> <https://github.com/NirDiamant/GenAI_Agents>
 
-6. Chip Huyen's blog about Building LLM applications for production
+8. The large language model course by Maxime Labonne:
 
-    Link ---> https://huyenchip.com/2023/04/11/llm-engineering.html
+    Link ---> <https://github.com/mlabonne/llm-course>
 
-7. LLM Bootcamp by The Full Stack:
+9. The Hands-on LLMs course by Paul Iusztin, Pau Labarta Bajo and Alexandru Razvant:
 
-    Link ---> https://fullstackdeeplearning.com/llm-bootcamp/
+    Link ---> <https://github.com/decodingml/llm-twin-course>
 
-8. Andrej Karpathy YouTube:
+    Old Link ---> <https://github.com/iusztinpaul/hands-on-llms>
 
-    Link ---> https://www.youtube.com/@AndrejKarpathy/videos
+10. LLM Bootcamp by The Full Stack:
+
+    Link ---> <https://fullstackdeeplearning.com/llm-bootcamp/>
