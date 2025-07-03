@@ -20,10 +20,12 @@
 
     Link ---> <https://huyenchip.com/2023/04/11/llm-engineering.html>
 
-6. RAG Techniques by Nir Diamant
+6. RAG Techniques by Nir Diamant  
+
     Link ---> <https://github.com/NirDiamant/RAG_Techniques>
 
 7. GenAI Agents by Nir Diamant
+
     Link ---> <https://github.com/NirDiamant/GenAI_Agents>
 
 8. The large language model course by Maxime Labonne:
